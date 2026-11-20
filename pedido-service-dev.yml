@@ -1,0 +1,10 @@
+server:
+  port: 8084
+
+spring:
+  application:
+      name: pedido-service
+  datasource:
+    url: jdbc:mysql://localhost:3307/bd_pedido_lab12
+    username: root
+    password: ""
